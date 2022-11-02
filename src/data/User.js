@@ -157,5 +157,25 @@ const Users = {
       portfolio: "",
     },
   },
+   "Viral0401": {
+    name: "Viral Dalal",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/Viral0401",
+      instagram: "https://www.instagram.com/wtfviral_/?hl=en",
+      linkedin: "https://www.linkedin.com/in/viral-dalal-424827251",
+    },
+  },
+    "smit-shah-GG": {
+    name: "Smit shah",
+    branch: "IT",
+    description: "Exploring | Learning",
+    links: {
+      github: "https://github.com/smit-shah-GG",
+      instagram: "https://www.instagram.com/darth.beerus/?hl=en",
+      linkedin: "https://www.linkedin.com/in/smit-shah-4b4470235",
+    },
+  },
 };
 export default Users;
